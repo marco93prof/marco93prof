@@ -34,8 +34,10 @@
 <div align="center">
   <h3>Github Statistics:</h3>
   <a href="https://github.com/marco93prof">
+    <!--
     <img src="https://github-readme-stats.vercel.app/api?username=marco93prof&show_icons=true&include_all_commits=true&count_private=true&theme=slateorange"/>
     <br>
+    -->
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marco93prof&layout=compact&theme=slateorange"/>
   </a>
 </div>
